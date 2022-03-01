@@ -7,6 +7,7 @@
     </head>
     <body class="text-white-50 bg-dark">
         <p class="bg-primary text-white">Good Morning, today is 03/01.</p>
+        <p class="bg-primary text-white">This is GitHub.</p>
         <h2>This is TCUST Image</h2>
         <img src="1.jpg" class="rounded" alt="TCUST1" width="300" height="222">
         <img src="2.jpg" class="img-thumbnail" alt="TCUST2" width="300" height="222">
